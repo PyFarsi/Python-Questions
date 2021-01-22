@@ -10,7 +10,7 @@ If you want to contribute to this Repo:
 - ✅ **info.json** = Question Maintainer Info
 - ✅ **src** = Example source folder
 
-``` 
+```json 
 # Example info.json
 
 {
