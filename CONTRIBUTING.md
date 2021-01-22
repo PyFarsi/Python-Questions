@@ -18,3 +18,4 @@ If you want to contribute to this Repo:
   "question_level": "beginner"
 }
 ```
+5. Recommend using Persian for your question and answer
