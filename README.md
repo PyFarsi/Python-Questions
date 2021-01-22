@@ -6,7 +6,9 @@
 </p>
 
 # Python Questions
-Python Questions with answer and sample code for people and students
+Python Questions with answer and sample code for Persian people and students
 
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
+
+## Questions
