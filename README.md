@@ -8,6 +8,8 @@
 # Python Questions
 Python Questions with answer and sample code for Persian people and students
 
+**Total Questions:** 1
+
 ## 👨‍👨‍👦‍👦 Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
