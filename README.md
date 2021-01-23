@@ -8,16 +8,16 @@
 # Python Questions
 Python Questions with answer and sample code for Persian people and students
 
-## Contributing
+## 👨‍👨‍👦‍👦 Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-## Questions
+## ⁉️ Questions
 
-### Beginner
+### 1️⃣ Beginner
 1. [<p dir="rtl">برنامه ای که قاعده و ارتفاع متوازی الاضلاع را خوانده , مساحت آن نمایش می دهد.</p>](Beginner/question1)
 
-### Intermediate
+### 2️⃣ Intermediate
 
-### Advanced
+### 3️⃣ Advanced
 
-### Expert
+### 4️⃣ Expert
