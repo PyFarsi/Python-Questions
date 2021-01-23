@@ -18,6 +18,6 @@ If you want to contribute to this Repo:
   "question_level": "beginner"
 }
 ```
-- Example questsion : https://github.com/PyFarsi/Python-Questions/tree/main/question1
+- Example questsion : https://github.com/PyFarsi/Python-Questions/tree/main/Beginner/question1
 
 5. Recommend using Persian for your question and answer
