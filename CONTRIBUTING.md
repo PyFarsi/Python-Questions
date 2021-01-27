@@ -14,7 +14,7 @@ If you want to contribute to this Repo:
 # Example info.json
 
 {
-  "maintainer": "javad <ja7adr@gmail.com>",
+  "maintainer": "https://github.com/ja7adr",
   "question_level": "beginner"
 }
 ```
