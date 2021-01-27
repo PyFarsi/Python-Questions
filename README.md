@@ -17,6 +17,7 @@ If you want to contribute to this project, read [Contributing Guide](CONTRIBUTIN
 
 ### 1️⃣ Beginner
 1. [<p dir="rtl">برنامه ای که قاعده و ارتفاع متوازی الاضلاع را خوانده , مساحت آن نمایش می دهد.</p>](Beginner/Question-1)
+2. [<p dir="rtl">برنامه ای که طول ارتفاع و قاعده مثلث را گرفته، سپس مساحت آن را نمایش میدهد.</p>](Beginner/Question-2)
 
 ### 2️⃣ Intermediate
 
