@@ -8,7 +8,7 @@
 # Python Questions
 Python Questions with answer and sample code for Persian people and students
 
-**Total Questions:** 3
+**Total Questions:** 4
 
 ## 👨‍👨‍👦‍👦 Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
@@ -21,6 +21,7 @@ If you want to contribute to this project, read [Contributing Guide](CONTRIBUTIN
 3. [<p dir="rtl">برنامه‌ای که عددی را خوانده، تشخیص می‌دهد آیا این عدد Strong است یا خیر⁉️</p>](Beginner/Question-3)
 
 ### 2️⃣ Intermediate
+1. [<p dir="rtl">محاسبه جمع ارقام فاکتوریل</p>](Intermediate/Question-1)
 
 ### 3️⃣ Advanced
 
